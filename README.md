@@ -1,7 +1,7 @@
 <div align="center">
 
 # Stanley Lucas
-### Software Engineer · Aerospace & Safety-Critical Systems
+### Computer Engineer · Aerospace & Safety-Critical Systems
 
 *Air Traffic Controller turned software engineer — building tools where data reliability is non-negotiable.*
 
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a software engineer with a background in Air Traffic Control — a domain where system failures have real consequences and data integrity is mission-critical. That experience shapes how I think about software: reliability, observability, and precision first.
+I'm a computer engineer with a background in Air Traffic Control — a domain where system failures have real consequences and data integrity is mission-critical. That experience shapes how I think about software: reliability, observability, and precision first.
 
 Currently building open-source tools at the intersection of aerospace and data engineering, with a long-term focus on contributing to space systems software.
 
