@@ -43,7 +43,7 @@ Currently building open-source tools at the intersection of aerospace and data e
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white)
 
 ---
 
@@ -51,9 +51,10 @@ Currently building open-source tools at the intersection of aerospace and data e
 
 <div align="center">
 
-![Stanley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stanley-lucas&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stanley-lucas&layout=compact&theme=dark&hide_border=true)
+<!-- ![Stanley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stanley-lucas&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stanley-lucas&layout=compact&theme=dark&hide_border=true) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=stanley-lucas&theme=dark&hide_border=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=stanley-lucas&theme=darkhub&no-frame=true&row=1)
 
 </div>
 
