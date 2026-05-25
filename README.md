@@ -1,7 +1,7 @@
 <div align="center">
 
 # Stanley Lucas
-### Computer Engineer · Air Traffic Controller · Aerospace & Safety-Critical Systems
+### Computer Engineer · Air Traffic Controller
 
 *Building tools where data reliability is non-negotiable.*
 
