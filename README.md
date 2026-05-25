@@ -1,9 +1,9 @@
 <div align="center">
 
 # Stanley Lucas
-### Computer Engineer · Aerospace & Safety-Critical Systems
+### Computer Engineer · Air Traffic Controller · Aerospace & Safety-Critical Systems
 
-*Air Traffic Controller turned software engineer — building tools where data reliability is non-negotiable.*
+*Building tools where data reliability is non-negotiable.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-stanley--lucas-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/stanley-lucas-dev/)
 [![Location](https://img.shields.io/badge/📍-Curitiba,_Brazil-lightgrey?style=flat)](https://github.com/stanley-lucas)
@@ -14,11 +14,11 @@
 
 ## About Me
 
-I'm a computer engineer with a background in Air Traffic Control — a domain where system failures have real consequences and data integrity is mission-critical. That experience shapes how I think about software: reliability, observability, and precision first.
+I’m a Computer Engineer with a background in Air Traffic Control — an environment where system failures have real-world consequences and data integrity is non-negotiable. That experience shaped the way I approach software engineering: prioritizing reliability, observability, resilience, and precision from the ground up.
 
-Currently building open-source tools at the intersection of aerospace and data engineering, with a long-term focus on contributing to space systems software.
+Today, I’m building open-source tools at the intersection of aerospace and data engineering, with a long-term goal of contributing to mission-critical software for aviation and space systems.
 
-**Computer Engineering student · Based in Curitiba, Brazil · Open to international opportunities**
+**Based in Curitiba, Brazil · Open to international opportunities**
 
 ---
 
