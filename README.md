@@ -22,19 +22,6 @@ Today, I’m building open-source tools at the intersection of aerospace and dat
 
 ---
 
-## 🚀 Projects *(updating in 2026)*
-
-> Projects are being built and will be linked here as they go live.
-
-| Project | Description | Stack |
-|---|---|---|
-| 🛸 Falcon 9 Telemetry Dashboard | *Coming soon* | Python · PostgreSQL · Streamlit |
-| 🛰 Starlink Constellation Tracker | *Coming soon* | Python · Skyfield · FastAPI |
-| 🔍 Rocket Engine Anomaly Detector | *Coming soon* | PyTorch · Grafana · Docker |
-| 🗺 ATC Simulator | Private — safety-critical systems simulation | — |
-
----
-
 ## 🛠 Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
